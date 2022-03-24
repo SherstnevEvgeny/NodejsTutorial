@@ -1,4 +1,4 @@
-// console.log("Fuck YOU!");
+
 
 // const Person = module.require('./person');
 
